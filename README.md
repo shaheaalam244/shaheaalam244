@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Shahe Aalam Ansari</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img align="right" alt="coding" width="400" scr="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaheaalam244&label=Profile%20views&color=0e75b6&style=flat" alt="shaheaalam244" /> </p>
 
